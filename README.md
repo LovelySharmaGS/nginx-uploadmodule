@@ -1,2 +1,2 @@
 # nginx-uploadmodule
-nginz-uploadmodule
+nginx-uploadmodule
